@@ -1,4 +1,5 @@
 module graphvizFramework {
+    header "config.h"
     header "arith.h"
     header "cdt.h"
     header "cghdr.h"

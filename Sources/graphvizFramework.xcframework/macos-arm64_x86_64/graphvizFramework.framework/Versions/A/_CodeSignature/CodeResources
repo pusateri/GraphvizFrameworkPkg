@@ -74,6 +74,13 @@
 			Fs1pOn+51iLzQZ2j0cuuahNa/Jj5mVhxqNMzf5gUa7k=
 			</data>
 		</dict>
+		<key>Headers/config.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/zU+Kr/YQZvcbFFfTr9L30xVVFrTYIFmhWybmoSvHOQ=
+			</data>
+		</dict>
 		<key>Headers/geom.h</key>
 		<dict>
 			<key>hash2</key>
@@ -85,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			38QbW9o0AqAtVksuZZPxkfD3ZAqRa2ID4vEgE1fOcvk=
+			sFvs4IhBWGvfrxmxl3XDedFlQ2P9trMrYzj1V1pH+q0=
 			</data>
 		</dict>
 		<key>Headers/graphviz_version.h</key>

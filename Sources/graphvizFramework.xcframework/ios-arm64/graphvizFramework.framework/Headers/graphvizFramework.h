@@ -13,6 +13,7 @@ FOUNDATION_EXPORT double graphvizFrameworkVersionNumber;
 //! Project version string for graphvizFramework.
 FOUNDATION_EXPORT const unsigned char graphvizFrameworkVersionString[];
 
+#import <graphvizFramework/config.h>
 #import <graphvizFramework/arith.h>
 #import <graphvizFramework/cdt.h>
 #import <graphvizFramework/cghdr.h>
