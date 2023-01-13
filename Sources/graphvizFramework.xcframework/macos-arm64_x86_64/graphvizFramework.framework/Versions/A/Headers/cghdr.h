@@ -24,7 +24,7 @@
 #define CGHDR_API /* nothing */
 #endif
 
-#include <cgraph.h>
+#include "cgraph.h"
 
 #include	 	<ctype.h>
 #include		<sys/types.h>
