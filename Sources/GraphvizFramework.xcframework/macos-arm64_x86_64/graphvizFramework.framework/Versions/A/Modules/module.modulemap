@@ -1,6 +1,0 @@
-framework module graphvizFramework {
-  umbrella header "graphvizFramework.h"
-
-  export *
-  module * { export * }
-}
