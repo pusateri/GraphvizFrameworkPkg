@@ -23,6 +23,7 @@
 
 #pragma once
 
+#include "inttypes.h"
 #include "cdt.h"
 
 #ifdef __cplusplus
